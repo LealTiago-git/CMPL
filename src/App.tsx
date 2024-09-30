@@ -38,7 +38,7 @@ function App() {
                         target="_blank"
                         type="button"
                         className="flex w-full items-center justify-center rounded-md p-3 font-semibold tracking-wide dark:bg-zinc-700 dark:text-gray-50"
-                        href="https://google.com"
+                        href=""
                     >
                         Aguardo da Avaliação
                     </a>
@@ -70,9 +70,9 @@ function App() {
                         target="_blank"
                         type="button"
                         className="flex w-full items-center justify-center rounded-md p-3 font-semibold tracking-wide dark:bg-zinc-700 dark:text-gray-50"
-                        href=""
+                        href="https://www.instagram.com/p/DAjsTrPu2sd/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
                     >
-                        Aguardo da Avaliação
+                        Avaliação
                     </a>
                 </div>
                 <div className="space-y-2 rounded-md shadow-xl dark:bg-zinc-800">
@@ -85,9 +85,9 @@ function App() {
                         target="_blank"
                         type="button"
                         className="flex w-full items-center justify-center rounded-md p-3 font-semibold tracking-wide dark:bg-zinc-700 dark:text-gray-50"
-                        href=""
+                        href="https://www.instagram.com/p/DAjsgY5ujTZ/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
                     >
-                        Aguardo da Avaliação
+                        Avaliação
                     </a>
                 </div>
                 <br />
