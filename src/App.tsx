@@ -10,9 +10,8 @@ function App() {
                         target="_blank"
                         type="button"
                         className="flex w-full items-center justify-center rounded-md p-3 font-semibold tracking-wide dark:bg-blue-600 dark:text-gray-50"
-                        href=""
+                        href="https://docs.google.com/forms/d/e/1FAIpQLSdUFMNjS6qOkNwnCnicL2aPvPjVo9HxGj1dpIPYAIgFhYaaqg/viewform"
                     >
-                        aguardando forms <br />
                         Mezzanine - Massive Attack
                     </a>
                     <br />
@@ -20,9 +19,8 @@ function App() {
                         target="_blank"
                         type="button"
                         className="flex w-full items-center justify-center rounded-md p-3 font-semibold tracking-wide dark:bg-blue-600 dark:text-gray-50"
-                        href=""
+                        href="https://docs.google.com/forms/d/e/1FAIpQLSdPDku_xyUbnXXFR6BQLiSl6vfMH22DYhaW4r4IA7qrjSQDnw/viewform"
                     >
-                        aguardando forms <br />
                         Mutter - Rammstein
                     </a>
                 </div>
