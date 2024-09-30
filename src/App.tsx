@@ -26,7 +26,8 @@ function App() {
                 </div>
             </div>
             <div className="m-2 space-y-4">
-                <b>Álbuns</b>
+                <b>Álbuns</b> <br />
+                <b>5 SEMANA</b>
                 <div className="space-y-2 rounded-md shadow-xl dark:bg-zinc-800">
                     <iframe
                         src="https://open.spotify.com/embed/album/49MNmJhZQewjt06rpwp6QR?utm_source=generator"
@@ -57,6 +58,8 @@ function App() {
                         Aguardo da Avaliação
                     </a>
                 </div>
+                <br />
+                <b>4 SEMANA</b>
                 <div className="space-y-2 rounded-md shadow-xl dark:bg-zinc-800">
                     <iframe
                         src="https://open.spotify.com/embed/album/4S5MLu2PKU7uElm2V3JphK?utm_source=generator"
@@ -87,6 +90,8 @@ function App() {
                         Aguardo da Avaliação
                     </a>
                 </div>
+                <br />
+                <b>3 SEMANA</b>
                 <div className="space-y-2 rounded-md shadow-xl dark:bg-zinc-800">
                     <iframe
                         src="https://open.spotify.com/embed/album/5fmIolILp5NAtNYiRPjhzA?utm_source=generator"
@@ -117,6 +122,8 @@ function App() {
                         Avaliação
                     </a>
                 </div>
+                <br />
+                <b>2 SEMANA</b>
                 <div className="space-y-2 rounded-md shadow-xl dark:bg-zinc-800">
                     <iframe
                         src="https://open.spotify.com/embed/album/6tkjU4Umpo79wwkgPMV3nZ?utm_source=generator"
@@ -147,6 +154,8 @@ function App() {
                         Avaliação
                     </a>
                 </div>
+                <br />
+                <b>1 SEMANA</b>
                 <div className="space-y-2 rounded-md shadow-xl dark:bg-zinc-800">
                     <iframe
                         src="https://open.spotify.com/embed/album/30BFY5VHii4PyWqkTubUWX?utm_source=generator"
